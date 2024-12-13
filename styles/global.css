@@ -30,13 +30,9 @@
 
 
 .container{
-    background-color: #0D0E11;
     display: flex;
-    padding-inline: 70px;
+    flex-direction: column ;
     margin-inline: auto;
-   
-    img{
-        max-width: 1366px;  
-    }
+    max-width: 1366px;
    
 }
