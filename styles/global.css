@@ -30,8 +30,9 @@
 
 
 .background{
-    background-color: #292C34;
+    background-color: #5d6069;
 }
+
 
 .container{
     display: flex;
@@ -40,3 +41,4 @@
     max-width: 1366px;
    
 }
+
