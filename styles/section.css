@@ -1,15 +1,23 @@
-div{
+#background-section{
+    background-color: var(--base-gray-100);
+}
+
+#title-2{
+
+    padding-inline: 505px;
 
     p{
         font: var(--subtitle);
         color: var(--red-color);
         margin-bottom: 8px;
         padding-top: 88px;
+        padding-left: 110px;
     }
 
     h3{
         font: var(--title-md);
         color: var(--base-gray-600);
-        margin-bottom: 56px;
+        margin-bottom: 56px; 
+        
     }
 }
