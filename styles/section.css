@@ -21,3 +21,42 @@
         
     }
 }
+
+#service-organizer {
+    
+    display: flex;
+    gap: 24px;
+    padding-bottom: 120px;
+    padding-inline: 233px;
+
+}
+
+.service-box {
+    
+    border-style: solid;
+    border-color: var(--base-gray-200);
+    border-radius: 12px;
+    width: 280px;
+    
+    
+    img{
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+
+    h4{
+        font: var(--title-sm);
+        margin-left: 20px;
+        margin-top: 20px;
+        color: var(--base-gray-600);
+    }
+
+    p {
+        font:var(--text-sm);
+        margin-left: 20px;
+        margin-top: 8px;
+        margin-bottom: 20px ;
+        color: var(--base-gray-500);
+    }
+    
+}
